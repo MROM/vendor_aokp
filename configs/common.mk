@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     su \
     SwagPapers \
     Torch \
+    PerformanceControl \
     UnicornPorn
 
 PRODUCT_PROPERTY_OVERRIDES += \
