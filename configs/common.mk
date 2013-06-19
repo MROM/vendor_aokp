@@ -19,6 +19,11 @@ PRODUCT_PACKAGES += \
     SwagPapers \
     Torch \
     PerformanceControl \
+    Trebuchet \
+    DSPManager \
+    CMWallpapers \
+    Apollo \
+    CMFileManager \
     UnicornPorn
 
 PRODUCT_PROPERTY_OVERRIDES += \
