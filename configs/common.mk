@@ -89,3 +89,5 @@ PRODUCT_COPY_FILES += packages/wallpapers/LivePicker/android.software.live_wallp
 # common boot animation
 PRODUCT_COPY_FILES += \
     vendor/aokp/prebuilt/bootanimation/bootanimation.zip:system/media/bootanimation.zip
+
+$(call inherit-product, vendor/mrom/mrom.mk)
